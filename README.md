@@ -29,18 +29,11 @@ git clone git@github.com:NoroffFEU/portfolio-1-example.git
 ```
 
 
-
-## Built With
-
-You can list a the tech stack that you've used over here
-
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
-
 ## About me
 
 I am a Front-End development student at Noroff. I have activly been doing code/programming since 2020.
 And have had no experience in it before. My goals is to become a Fullstack developer or work within game design.
+
 
 ## Contact
 
