@@ -32,7 +32,7 @@ git clone git@github.com:NoroffFEU/portfolio-1-example.git
 ## About me
 
 I am a Front-End development student at Noroff. I have activly been doing code/programming since 2020.
-And have had no experience in it before. My goals is to become a Fullstack developer or work within game design.
+And have had no experience in it before. My goals is to become a Front-End developer or work within game design.
 
 
 ## Contact
