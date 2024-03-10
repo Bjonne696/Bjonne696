@@ -13,19 +13,23 @@ CSS
 
 Javascript
 
+React
+
+Tailwind
+
 ## Projects I am proud of
 
-My semester Project
+My Javascript Frameworks CA
 
 ```bash
-https://github.com/Bjonne696/Semester-Project-1-Second-Attempt.git
+https://github.com/Bjonne696/course-assignment-front-end-frameworks.git
 ```
 
 My Exam
 
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+https://github.com/Bjonne696/project-exam-2-holidaze.git
 ```
 
 
