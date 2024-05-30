@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I am Bjonne, I study Front-End developent at Noroff, currently living in Norway.
+I am Bjonne, I study programing and technology at Noroff, currently living in Norway.
 
 
 ## Languages I Know
@@ -35,8 +35,7 @@ https://github.com/Bjonne696/project-exam-2-holidaze.git
 
 ## About me
 
-I am a Front-End development student at Noroff. I have activly been doing code/programming since 2020.
-And have had no experience in it before. My goals is to become a Front-End developer or work within game design.
+I am a Front-End developer studying AML (Applied Machine Learning) at Noroff Vocational. I have activly been doing code/programming since 2020.
 
 
 ## Contact
