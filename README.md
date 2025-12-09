@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I am Bjonne, I study programing and technology at Noroff, currently living in Norway.
+I am Bjonne, I study programing and technology, currently living in Norway.
 
 
 ## Languages I Know
