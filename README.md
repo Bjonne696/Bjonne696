@@ -1,70 +1,36 @@
-### Hi there! Nice to see you!👋
+# Hi, I'm Bjørn-Tore 👋
 
-Welcome to my page!
+I'm **Bjørn-Tore Moskaug Jaavall**, a frontend and backend developer based in Norway, open to junior frontend, backend and full-stack roles.
 
-I am Bjonne, I study programing and technology, currently living in Norway.
+I work with React, JavaScript, Node.js and SQL. My projects cover user interfaces, API development, authentication and database integration.
 
+## Featured projects
 
-## Languages I Know
+### [Ferieplassen](https://github.com/Bjonne696/ferieplassen)
 
-HTML
+A Norwegian holiday rental application built with **React and Supabase**.
 
-CSS
+- Property browsing and filtering, maps and guest reviews.
+- Booking requests and tools for managing property listings.
+- Authentication, user profiles and image uploads.
+- Automated frontend tests and accessibility checks.
 
-Javascript
+### [Event Manager](https://github.com/Bjonne696/Back-end-Exam-project-1)
 
-React
+An event management REST API developed as a backend exam project, built with **Node.js, Express, MySQL and Sequelize**.
 
-Tailwind
+- Management of events, organizers, speakers and attendees.
+- JWT authentication and role-based access control.
+- Registration validation, search and event statistics.
+- Swagger API documentation and tests using Jest and Supertest.
 
-## Projects I am proud of
+## Technologies
 
-My Javascript Frameworks CA
-
-```bash
-https://github.com/Bjonne696/course-assignment-front-end-frameworks.git
-```
-
-My Exam
-
-
-```bash
-https://github.com/Bjonne696/project-exam-2-holidaze.git
-```
-
-
-## About me
-
-I am a Front-End developer studying AML (Applied Machine Learning) at Noroff Vocational. I have activly been doing code/programming since 2020.
-
+- **Frontend:** JavaScript, React, HTML, CSS, Vite
+- **Backend and data:** Node.js, Express, MySQL, Sequelize, Supabase
+- **Tools and testing:** Git, GitHub, Jest, Supertest, Playwright
 
 ## Contact
 
-To contact me, look me up on Linkedin or send me a Email. 
-
-[Bjørn-Tore Moskaug Jaavall](https://www.linkedin.com/in/bjørn-tore-moskaug-jaavall-b88664aa)
-
-Email adress: Bjonne696@gmail.com
-
-
-
-
-
-
-
-
-
-<!--
-**Bjonne696/Bjonne696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LinkedIn:** [https://www.linkedin.com/in/bjørn-tore-moskaug-jaavall-b88664aa](https://www.linkedin.com/in/bjørn-tore-moskaug-jaavall-b88664aa)
+- **Email:** [Bjonne696@gmail.com](mailto:Bjonne696@gmail.com)
