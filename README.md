@@ -24,6 +24,16 @@ An event management REST API developed as a backend exam project, built with **N
 - Registration validation, search and event statistics.
 - Swagger API documentation and tests using Jest and Supertest.
 
+### [Restaurant Order Management](https://github.com/Bjonne696/restaurant-order-management)
+
+A coursework project built with a gateway, three Node.js/Express services and a shared Azure SQL database.
+
+- Customer order creation with input validation.
+- Employee order processing and status updates.
+- Management reporting with SQL aggregate queries.
+
+**Technologies:** JavaScript, Node.js, Express, Sequelize, Azure SQL and EJS.
+
 ## Technologies
 
 - **Frontend:** JavaScript, React, HTML, CSS, Vite
